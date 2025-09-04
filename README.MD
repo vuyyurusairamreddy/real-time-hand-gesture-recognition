@@ -12,7 +12,7 @@ A real-time hand gesture recognition application built with Python, OpenCV, and 
 - **Thumbs Up** - Only thumb extended upward
 ## Demo Video
 
-[Watch the demo video on Google Drive](https://drive.google.com/file/d/10B0cL4PqUrTp6BUTT7R0nJ9XB1MNV/view?usp=sharing)
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/10B0cL4PqUrTp6BUTT7R0nJ8iJ9XB1MNV/view?usp=sharing)
 
 
 ## 🔧 Technology Justification
@@ -174,5 +174,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
+
 
 
